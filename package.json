@@ -1,0 +1,21 @@
+{
+  "name": "bitcoin-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bitcoin-core": "^2.2.0",
+    "bitcoin-core-new": "^1.2.2",
+    "bitcoin-transaction": "^1.2.1",
+    "bitcoinjs-lib": "^5.1.6",
+    "bitcore-explorers": "^1.0.1",
+    "bitcore-lib": "^8.7.1",
+    "blockchain.info": "^2.12.1"
+  }
+}
