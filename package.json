@@ -16,6 +16,8 @@
     "bitcoinjs-lib": "^5.1.6",
     "bitcore-explorers": "^1.0.1",
     "bitcore-lib": "^8.7.1",
-    "blockchain.info": "^2.12.1"
+    "blockchain.info": "^2.12.1",
+    "express": "^4.17.1",
+    "litecore-explorers": "^1.0.1"
   }
 }
